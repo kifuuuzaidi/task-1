@@ -1,0 +1,194 @@
+.rep{
+
+text-align: center;
+background-image: url(../images/Burger-31LGH-a296a356-020c-4969-86e8-d8c26139f83f-0-1400x919.jpg);
+font-size: larger;
+margin-bottom: 50px;
+padding: 200px;
+background-size: cover;
+text-decoration: aqua;
+color: azure;
+
+}
+.one{
+    text-align: center;
+    width: 30%;
+    display: inline-block;
+}
+.two{
+    text-align: center;
+    width: 30%;
+    display: inline-block;
+}
+.three{
+    text-align: center;
+    width: 30%;
+    display: inline-block;
+}
+.kaifee{
+    /* text-align: center; */
+    display: inline-block;
+    line-height: 30px;
+    width: 30%;
+    margin-top: 0px;
+}
+#mm{
+    width: 35%;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+#nn{
+    width: 30%;
+    margin-top: 0px;
+}
+#uu{
+    width: 80px;
+    margin-left: 50%;
+    padding-top: 20px;    
+}
+.para{
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    color: darkgrey;
+}
+.kif{
+    background-image:url(../images/milky-way-2695569_960_720.jpg)
+}
+.pad{
+    text-align: center;
+    margin-bottom: 0px;
+    
+}
+.ita{
+    width: 19%;
+    text-align: center;
+    background-image: url(../images/food3.jpg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    
+}
+.kup{
+    width: 19%;
+    text-align: center;
+    background-image: url(../images/italic.jpeg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.fre{
+    width: 19%;
+    text-align: center;
+    background-image: url(../images/ind.jpeg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.ste{
+    width: 19%;
+    text-align: center;
+    background-image: url(../images/stk.jpeg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.sea{
+    width: 19%;
+    text-align: center;
+    background-image: url(../images/sea.jpeg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.sus{
+    width: 19%;
+    text-align: center;
+    background-image: url(../images/chi.jpeg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.mex{
+    width: 19%;
+    text-align: center;
+    background-image: url(../images/mex.jpeg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.chi{
+    width: 19%;
+    text-align: center;
+    background-image: url(../images/food2.jpg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.piz{
+    width: 19%;
+    text-align: center;
+    background-image: url(../images/piz.jpeg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.ame{
+    width: 19%;
+    text-align: center;
+    background-image: url(../images/burger.jpeg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+
+}
